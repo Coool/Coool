@@ -1,4 +1,5 @@
-👋 Hi!
+<h1 align="center">Hi 👋, I'm Coool</h1>
+<h3 align="center">A man with 🌈 curiosity from Europe</h3>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/coool_)
 
