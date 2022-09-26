@@ -3,6 +3,13 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/coool_)
 
+🌈 of knowledge
+<!-- https://raw.githubusercontent.com/arthurmatthew/arthurmatthew/main/README.md -->
+<p>
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-008DFF?style=flat&logo=CSS3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" />
+</p>
 <!--
 **Coool/Coool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
