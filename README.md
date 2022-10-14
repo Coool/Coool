@@ -18,6 +18,8 @@
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-008DFF?style=flat&logo=CSS3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-515990?style=flat&logo=PHP&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=Python" />
 </p>
 
 <!--
