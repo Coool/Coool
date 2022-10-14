@@ -3,8 +3,12 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/coool_)
 
-🌈 of knowledge
 <!-- https://raw.githubusercontent.com/arthurmatthew/arthurmatthew/main/README.md -->
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=Coool&show_icons=true&hide_border=true&theme=apprentice">
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coool&layout=compact&hide_border=true&theme=apprentice">
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+🌈 of knowledge
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-008DFF?style=flat&logo=CSS3&logoColor=white" />
