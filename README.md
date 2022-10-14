@@ -6,14 +6,20 @@
 <!-- https://raw.githubusercontent.com/arthurmatthew/arthurmatthew/main/README.md -->
 <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=Coool&show_icons=true&hide_border=true&theme=apprentice">
 <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coool&layout=compact&hide_border=true&theme=apprentice">
+<br/><br/><br/><br/><br/><br/><br/>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-🌈 of knowledge
+<!-- https://raw.githubusercontent.com/MrGreensWorkshop/MrGreensWorkshop/main/README.md -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Coool.Coool)
+[![Follower Count](https://img.shields.io/github/followers/Coool?label=Followers&style=badge)](https://github.com/Coool?tab=followers)
+<!-- [![Support me on Github Sponsors](https://shields.io/badge/Github%20Sponsors-Support%20me-blue?logo=githubsponsors)](https://github.com/sponsors/Coool "Support me on Github Sponsors") -->
+
+## 🌈 of knowledge
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-008DFF?style=flat&logo=CSS3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" />
 </p>
+
 <!--
 **Coool/Coool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
