@@ -4,8 +4,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/coool_)
 
 <!-- https://raw.githubusercontent.com/arthurmatthew/arthurmatthew/main/README.md -->
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=Coool&show_icons=true&hide_border=true&theme=apprentice">
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coool&layout=compact&hide_border=true&theme=apprentice">
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=Coool&show_icons=true&hide_border=true&theme=apprentice">
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coool&layout=compact&hide_border=true&theme=apprentice">
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 🌈 of knowledge
