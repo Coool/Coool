@@ -14,15 +14,26 @@
 <!-- [![Support me on Github Sponsors](https://shields.io/badge/Github%20Sponsors-Support%20me-blue?logo=githubsponsors)](https://github.com/sponsors/Coool "Support me on Github Sponsors") -->
 
 ## 🌈 of knowledge
-<p>
 
-<a href="https://w3.org/TR/html5" title="HTML5" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-F06529?style=?style=flat&logo=html5&color=black" /></a>
-<a href="https://w3.org/TR/CSS/#css" title="CSS3" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&color=black&logoColor=1572B6" /></a>
-<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262" title="JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=f7df1e&color=black" /></a>
-<a href="https://php.net" title="PHP" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-PHP-484C89?style=flat&logo=PHP&color=black&logoColor=484C89" /></a>
-<a href="https://python.org" title="Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=Python&logoColor=306998&color=black" /></a>
+<p>
+<a href="https://w3.org/TR/html5" title="HTML5" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-Programming-F06529?style=?style=flat&logo=html5&color=F06529&labelColor=black" /></a>
+<a href="https://w3.org/TR/CSS/#css" title="CSS3" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-Programming-1572B6?style=flat&logo=CSS3&color=1572B6&logoColor=1572B6&labelColor=black" /></a>
+<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262" title="JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Programming-f7df1e?style=flat&logo=JavaScript&logoColor=f7df1e&color=f7df1e&labelColor=black" /></a>
+<a href="https://php.net" title="PHP" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-Programming-484C89?style=flat&logo=PHP&color=484C89&logoColor=484C89&labelColor=black" /></a>
+<a href="https://python.org" title="Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-Programming-306998?style=flat&logo=Python&logoColor=306998&color=306998&labelColor=black" /></a>
+<a href="https://perl.org" title="Perl" target="_blank"><img alt="Perl" src="https://img.shields.io/badge/Perl-Programming-39457E?style=flat&logo=Perl&color=39457E&labelColor=black&logoColor=39457E" /></a>
 </p>
 
+<p>
+<a href="https://kernel.org" title="Linux" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-OS-FCC624?style=?style=flat&logo=Linux&color=FCC624&labelColor=black" /></a>
+<a href="https://microsoft.com/windows" title="Windows" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-OS-0078D6?style=?style=flat&logo=Windows&color=0078D6&labelColor=black&logoColor=0078D6" /></a>
+<a href="https://apple.com/macos" title="macOS" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-OS-000000?style=?style=flat&logo=macOS&color=000000&labelColor=black" /></a>
+</p>
+
+<p>
+<a href="https://mysql.com" title="MySQL" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-4479A1?style=?style=flat&logo=MySQL&color=black" /></a>
+<a href="https://wordpress.org" title="WordPress" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-CMS-21759B?style=?style=flat&logo=WordPress&color=black&labelColor=21759B" /></a>
+</p>
 <!--
 **Coool/Coool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
