@@ -27,6 +27,9 @@
 <a href="https://apple.com/macos" title="macOS" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-OS-000000?style=?style=flat&logo=macOS&color=000000&labelColor=black" /></a>
 <a href="https://mysql.com" title="MySQL" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-4479A1?style=?style=flat&logo=MySQL&color=black" /></a>
 <a href="https://wordpress.org" title="WordPress" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-CMS-21759B?style=?style=flat&logo=WordPress&color=black&labelColor=21759B" /></a>
+<a href="https://git-scm.com" title="Git" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-Version_Control-F05032?style=?style=flat&logo=Git&color=F05032&labelColor=black" /></a>
+<a href="https://github.com" title="GitHub" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Version_Control-181717?style=?style=flat&logo=GitHub&color=181717&labelColor=black" />
+</a><a href="https://github.com" title="GitLab" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-Version_Control-FC6D26?style=?style=flat&logo=GitLab&color=FC6D26&labelColor=black" /></a>
 </p>
 
 <!--
